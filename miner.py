@@ -11,7 +11,7 @@ import re
 difficulty = 1
 memory_cost = 1500 
 cores = 1
-account = "0x0A6969ffF003B760c97005e03ff5a9741126167A"
+account = "0xb4F4f7E9404e5183ECa8017F720b87bc94CFC99C"
 last_block_url = 'http://xenminer.mooo.com:4445/getblocks/lastblock'
 
 def hash_value(value):
